@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am massague on github.
+  * I am massague (https://keybase.io/massague) on keybase.
+  * I have a public key ASAmCIib6cVjngbA7r9r5sZU8IZTqT2d6rDCkuxj4-QLIwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202608889be9c5639e06c0eebf6be6c654f08653a93d9deab0c292ec63e3e40b230a",
+      "host": "keybase.io",
+      "kid": "01202608889be9c5639e06c0eebf6be6c654f08653a93d9deab0c292ec63e3e40b230a",
+      "uid": "3c76c422dc8d673ba7a58fdaa99a2119",
+      "username": "massague"
+    },
+    "merkle_root": {
+      "ctime": 1568158364,
+      "hash": "e3087c27acee2bad68002e5034c112961b63848a4f4fdfb38b7832165866d5692d007a7eb540e0def89bd1f68ded66834f7e2848bbec22927c6b5f45635aec04",
+      "hash_meta": "9d61d463f4789872742f8f1e80afe13947f2e9f8896e5140f76c1a2e9a2c51df",
+      "seqno": 6539249
+    },
+    "service": {
+      "entropy": "SHB1HIXjphK1E6R5de2fk5zm",
+      "name": "github",
+      "username": "massague"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568158367,
+  "expire_in": 504576000,
+  "prev": "7599dd8371f72ef3412eb0b2024ad51dc4c20c17ae2976752d2864f52eba3266",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASAmCIib6cVjngbA7r9r5sZU8IZTqT2d6rDCkuxj4-QLIwo](https://keybase.io/massague), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJgiIm+nFY54GwO6/a+bGVPCGU6k9neqwwpLsY+PkCyMKp3BheWxvYWTESpcCBsQgdZndg3H3LvNBLrCyAkrVHcTCDBeuKXZ1LShk9S66MmbEINhBEWnmUPYVQN5bpKaYNfv45a+ixXiJz1jeihphr5/gAgHCo3NpZ8RAsGVQeRyxSO2zTyXdG+7SxHvlVrIBiJPao3LMK3fQnEFfIYBIGofXO2zvh8EscU00oMFY8ORLXMTxTAvhrPRICqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINlWVXj9/wpNKTbsy+U04SMmdItwjYDHxrzvSq8akDIGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/massague
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id massague
+```
